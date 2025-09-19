@@ -1,4 +1,4 @@
-# 🚀 Machine Learning Specialization Portfolio  
+#  Machine Learning Specialization Portfolio  
 
 Hi, I’m **Sahil Dogra**! 
 
